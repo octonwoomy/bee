@@ -36,3 +36,43 @@ li {
 .css li {
     border-left: 4px solid #00bcd4;
 }
+.js, .html, .css {
+    display: none;
+}
+.dropdown-button {
+    cursor: pointer;
+}
+.dropdown-button.active + ul {
+    display: block;
+}
+.dropdown-button.active + ul {
+    display: block;
+}
+.dropdown-button:hover {
+    background-color: #555;
+}
+.dropdown-button {
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    display: block;
+    margin: 0 auto;
+}
+.dropdown-button:hover {
+    background-color: #555;
+}
+.dropdown-button.active + ul {
+    display: block;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    padding-top: 50px;
+    width: 300px;
+}
