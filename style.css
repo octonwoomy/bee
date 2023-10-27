@@ -1,0 +1,38 @@
+body {
+    background-color: #212121;
+    color: #fff;
+    font-family: 'Tahoma';
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0;
+}
+h1 a {
+    text-decoration: none;
+    color: #9c27b0;
+}
+h3 {
+    text-align: center;
+    font-size: 25px;
+    color: #03a9f4;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+    background-color: #323232;
+    padding: 15px;
+    border-radius: 10px;
+}
+.js li {
+    border-left: 4px solid #9c27b0;
+}
+.html li {
+    border-left: 4px solid #03a9f4;
+}
+.css li {
+    border-left: 4px solid #00bcd4;
+}
