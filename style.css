@@ -76,3 +76,12 @@ img {
     padding-top: 50px;
     width: 300px;
 }
+h4{
+    text-align: center;
+}
+#button{
+    margin-top: 40px;
+}
+#log{
+    display: none;
+}
